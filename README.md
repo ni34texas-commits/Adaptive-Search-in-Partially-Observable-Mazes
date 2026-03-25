@@ -1,1 +1,1 @@
-# Adaptive-Search-in-Partially-Observable-Mazes
+# AI: Adaptive Search in Partially Observable Mazes using A* algorithm. 
